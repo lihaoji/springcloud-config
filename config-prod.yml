@@ -1,1 +1,2 @@
-prod
+config:
+  info:"prod master version1.0"
